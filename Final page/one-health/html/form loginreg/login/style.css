@@ -1,0 +1,54 @@
+body{
+	font-family: sans-serif;
+	background: #d5f0f3;
+}
+ 
+h1{
+	text-align: center;
+	font-weight: 300;
+}
+ 
+.judul_login{
+	text-align: center;
+	text-transform: uppercase;
+}
+ 
+.login_box{
+	width: 350px;
+	background: white;
+	margin: 80px auto;
+	padding: 30px 20px;
+}
+ 
+label{
+	font-size: 11pt;
+}
+ 
+.form_login{
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+ 
+.tombol_login{
+	background: blueviolet;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+
+.tombol_register{
+    background: blueviolet;
+    color: white;
+    font-size: 11pt;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
